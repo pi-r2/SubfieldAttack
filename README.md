@@ -1,4 +1,7 @@
 ### Subfield attack on VOX ###
+This repository contains code demonstrating the attack described in https://eprint.iacr.org/2024/196.
+It also includes some artefact logs and inputs described in the paper.
+
 
 `main.sage` contains a demonstration of the attack using sagemath, and the code used to estimate the gate counts for the attack.
 Run it with `sage main.sage`.
